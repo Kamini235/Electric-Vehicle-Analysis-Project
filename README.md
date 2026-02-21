@@ -2,7 +2,7 @@
 
  Electric Vehicle Analysis Project 
  
-Goal of the Dashboard To deliver an interactive visual tool that: Enables users to explore Electric vehicle analysis globally. Supports decisions such as Future planning, regional marketing, or infrastructure investment. Uncovers trends in different terrain, Government subsidy policy, accessibility, and availability of Charging station in particular region.
+Goal of the Dashboard is to deliver an interactive visual tool that: Enables users to explore Electric vehicle analysis globally. Supports decisions such as Future planning, regional marketing, or infrastructure investment. Uncovers trends in different terrain, Government subsidy policy, accessibility, and availability of Charging station in particular region.
 
 Purpose
 
@@ -37,6 +37,7 @@ Most Revenue generated maker is Tata motors 133bn.
 Electric 2-whereler sold 92% (donut chart) is more than that of 4-wheeler 
 Quarter wise electric 4-wheeler Clustered column chart by top makers
 
+https://github.com/Kamini235/Electric-Vehicle-Analysis-Project/blob/main/Electric%20vehicle%20sale%20dashboard.png
  
 
 
