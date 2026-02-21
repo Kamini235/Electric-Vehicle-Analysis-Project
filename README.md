@@ -14,11 +14,15 @@ EV Analytics Dashboard is a visually engaging and analytical Power BI report des
  Tech Stack
  
 List the key technologies used to build the dashboard.
-Example: The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
+
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+
 • 📝 Data Modeling – Relationships established among tables  ( dim date, state, Maker, and fact table ) to enable cross-filtering and aggregation.
+
 • 📁 File Format – .pbix for development and Canva for making video.
 
  Data Source
@@ -27,15 +31,25 @@ AtliQ Motor is Planning to launch their Model of Electric Vehicle in India. I Lo
 Features / Highlights
 
 • Walkthrough of Key Visuals
+
 Built KPIs such as Revenue, Penetration rate, Total vehicle sold… etc
-Used trend chart along with key metrics,
-Created interactive Power BI dashboards for actionable insights
-Identified high-margin, low-sales brands for optimization
+
+Used trend chart along with key metrics.
+
+Created interactive Power BI dashboards for actionable insights.
+
+Identified high-margin, low-sales brands for optimization.
+
 An interactive slicer lets users filter all visuals by selected State.
+
 Top States (Bar graph) with Most electric vehicle sold are Maharashtra (around 4L), Karnataka, Tamil Nadu.
+
 Most Revenue generated maker is Tata motors 133bn.
-Electric 2-whereler sold 92% (donut chart) is more than that of 4-wheeler 
-Quarter wise electric 4-wheeler Clustered column chart by top makers
+
+Electric 2-whereler sold 92% (donut chart) is more than that of 4-wheeler.
+
+Quarter wise electric 4-wheeler Clustered column chart by top makers.
+
 
 https://github.com/Kamini235/Electric-Vehicle-Analysis-Project/blob/main/Electric%20vehicle%20sale%20dashboard.png
  
